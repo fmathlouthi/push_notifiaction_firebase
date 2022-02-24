@@ -1,6 +1,5 @@
-# Firebase Push Notification Laravel Tutorial
+# Firebase Push Notification Laravel 
 
-### [Visit Blog](https://techvblogs.com/blog/firebase-push-notification-laravel?ref=repo)
 
 #### Install Packages
 
@@ -32,8 +31,3 @@ php artisan serve
 npm run dev
 ```
 
-# Connect with Us
-
--   [Site](https://techvblogs.com/?ref=githubrepo)
--   [Twitter](https://twitter.com/techvblogs)
--   [Facebook](https://facebook.com/techvblogs)
